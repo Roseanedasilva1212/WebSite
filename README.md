@@ -12,19 +12,7 @@ Desenvolver uma landing page para a TechFlow , uma startup de tecnologia sustent
 ## Tecnologias
 - HTML5, CSS3, JavaScript (vanilla).
 
-## Gestão do Projeto
-- **Metodologia**: Kanban via GitHub Projects.
-- **Planejamento**: Aba "Projects" com colunas A Fazer, Em Progresso, Concluído.
-- **Desenvolvimento**: Issues #1 a #5 para criação, fechadas ao implementar.
-- **Qualidade**: Issues #6 a #8 para testes, fechadas após validação no GitHub Actions.
-- **Histórico**: Commits estruturados com Conventional Commits.
-- **Mudanças**: Registradas neste README e no Kanban.
+## TImagem do projeto
 
-## Como Visualizar
-1. Clone o repositório: `git clone <URL>`
-2. Abra `index.html` em um navegador.
+![Captura de tela 2025-04-08 210000](https://github.com/user-attachments/assets/b28551b3-c790-4564-926f-4a6361afd9d4)
 
-## Mudanças no Escopo
-**Data**: 25/03/2025
-**Alteração**: Adição de uma seção "Sobre Nós".
-**Justificativa**: Cliente solicitou destaque da missão da Techflow para engajar visitantes.
